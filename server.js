@@ -5,3 +5,6 @@ function server() {
 function newFeature() {
     console.log('bg color wala feature');
 }
+function newnewFeature() {
+    console.log('bg color wala feature hua dobara');
+}

@@ -8,3 +8,5 @@ function newFeature() {
 function newnewFeature() {
     console.log('bg color wala feature hua dobara');
 }
+
+const num = 323;
